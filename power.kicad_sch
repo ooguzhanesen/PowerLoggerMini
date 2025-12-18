@@ -2035,7 +2035,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08a2ad56-172c-4911-9f66-5f922e6d8f1b")
-		(property "Reference" "R18"
+		(property "Reference" "R17"
 			(at 198.12 66.0399 0)
 			(effects
 				(font
@@ -2107,7 +2107,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "R18")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -2122,7 +2122,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10fe487b-b8a9-4a43-ac5f-922e215f6b94")
-		(property "Reference" "C25"
+		(property "Reference" "C24"
 			(at 183.134 57.912 0)
 			(effects
 				(font
@@ -2194,7 +2194,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "C25")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -2209,7 +2209,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "277a9f84-85d4-4c9c-8418-664e9a843ad4")
-		(property "Reference" "C26"
+		(property "Reference" "C25"
 			(at 190.754 65.532 0)
 			(effects
 				(font
@@ -2281,7 +2281,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "C26")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -2297,7 +2297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38eb08e8-f76f-4442-9184-a3d7211169ca")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR051"
 			(at 175.26 71.12 0)
 			(effects
 				(font
@@ -2347,7 +2347,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "#PWR053")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -2363,7 +2363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ff507a1-7c55-4865-8667-56610b7c7dd9")
-		(property "Reference" "R17"
+		(property "Reference" "R16"
 			(at 198.12 58.4199 0)
 			(effects
 				(font
@@ -2435,7 +2435,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "R17")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -2450,7 +2450,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5512755a-bd34-4326-bac5-5da9c81f064a")
-		(property "Reference" "C23"
+		(property "Reference" "C22"
 			(at 152.908 47.498 90)
 			(effects
 				(font
@@ -2504,7 +2504,7 @@
 				(hide yes)
 			)
 		)
-		(property "özdisan" "CC0603KRX7R9BB104"
+		(property "özdisan" "CC0603KRX7R9BB104 "
 			(at 154.94 49.53 90)
 			(effects
 				(font
@@ -2522,7 +2522,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "C23")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -2538,7 +2538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57293c7a-6a14-40b2-b742-f2bb5fe88ea2")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR049"
 			(at 96.52 82.55 0)
 			(effects
 				(font
@@ -2588,7 +2588,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "#PWR051")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -2603,7 +2603,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "613aa49d-7bec-4203-abbd-9f9929533843")
-		(property "Reference" "C21"
+		(property "Reference" "C20"
 			(at 98.044 59.69 0)
 			(effects
 				(font
@@ -2675,7 +2675,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "C21")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -2790,7 +2790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78afc3d8-63c8-40a6-85bc-63f652303c81")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR053"
 			(at 195.58 86.36 0)
 			(effects
 				(font
@@ -2840,7 +2840,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "#PWR055")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -2855,7 +2855,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ebd557c-2a3a-41a1-9c76-6cd8e58ef9be")
-		(property "Reference" "R16"
+		(property "Reference" "R15"
 			(at 116.332 66.802 0)
 			(effects
 				(font
@@ -2927,7 +2927,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "R16")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -3029,7 +3029,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a736a7cd-416f-4ef7-a9b8-f28b6b5d5da0")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 91.44 45.72 0)
 			(effects
 				(font
@@ -3117,7 +3117,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -3132,7 +3132,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b88f8b4c-049c-457f-bcd6-7dc70651923b")
-		(property "Reference" "R19"
+		(property "Reference" "R18"
 			(at 198.12 73.6599 0)
 			(effects
 				(font
@@ -3195,7 +3195,7 @@
 				(hide yes)
 			)
 		)
-		(property "özdisan" "0603SAF1332T5E"
+		(property "özdisan" "0603SAF2212T5E"
 			(at 195.58 74.93 0)
 			(effects
 				(font
@@ -3213,7 +3213,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "R19")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -3228,7 +3228,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ba2a4690-a1a9-40e1-a6fc-bea07a9a21fc")
-		(property "Reference" "C24"
+		(property "Reference" "C23"
 			(at 169.926 57.658 0)
 			(effects
 				(font
@@ -3300,7 +3300,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "C24")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -3315,7 +3315,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bc7c874d-44af-4737-9e45-52f93437937e")
-		(property "Reference" "C22"
+		(property "Reference" "C21"
 			(at 106.426 59.436 0)
 			(effects
 				(font
@@ -3369,7 +3369,7 @@
 				(hide yes)
 			)
 		)
-		(property "özdisan" "CC0603KRX7R9BB104"
+		(property "özdisan" "CC0603KRX7R9BB104 "
 			(at 105.41 62.23 0)
 			(effects
 				(font
@@ -3387,7 +3387,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "C22")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -3402,7 +3402,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "be19e8e1-5716-4abb-9f03-cef3d65d22af")
-		(property "Reference" "R15"
+		(property "Reference" "R14"
 			(at 115.824 56.642 0)
 			(effects
 				(font
@@ -3483,7 +3483,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "R15")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -3499,7 +3499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0572be9-47d4-472e-ad52-dde58ca2ac8d")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR050"
 			(at 137.16 76.2 0)
 			(effects
 				(font
@@ -3549,7 +3549,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "#PWR052")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -3565,7 +3565,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f718672c-0fc5-4144-90bf-2d1b91c34d12")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR052"
 			(at 195.58 58.42 0)
 			(effects
 				(font
@@ -3615,7 +3615,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/672b4a3e-2ed1-44db-bfc6-31edf94eeab3"
-					(reference "#PWR054")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)

@@ -2803,9 +2803,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2c9d5135-d3ad-4db8-a672-f5fdf60367b4")
-		(property "Reference" "J6"
+		(property "Reference" "J7"
 			(at 55.626 37.592 90)
 			(effects
 				(font
@@ -3056,7 +3056,7 @@
 		(instances
 			(project ""
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/d00f736a-765f-4a24-9c13-c76d4dd8f90d"
-					(reference "J6")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -3582,7 +3582,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6437ffa2-686a-440e-9619-44812ed6dcb7")
-		(property "Reference" "C18"
+		(property "Reference" "C17"
 			(at 103.124 97.79 0)
 			(effects
 				(font
@@ -3654,7 +3654,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/d00f736a-765f-4a24-9c13-c76d4dd8f90d"
-					(reference "C18")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -4289,7 +4289,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ac7e67bb-43e6-494c-bd37-5fc38e7ec170")
-		(property "Reference" "C16"
+		(property "Reference" "C15"
 			(at 57.15 148.082 0)
 			(effects
 				(font
@@ -4361,7 +4361,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/d00f736a-765f-4a24-9c13-c76d4dd8f90d"
-					(reference "C16")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -4376,7 +4376,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b37979e8-a503-45db-a954-94966b583e40")
-		(property "Reference" "C20"
+		(property "Reference" "C19"
 			(at 147.574 100.33 0)
 			(effects
 				(font
@@ -4448,7 +4448,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/d00f736a-765f-4a24-9c13-c76d4dd8f90d"
-					(reference "C20")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -4461,9 +4461,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bd46557b-6397-4271-8a11-4b1311743d84")
-		(property "Reference" "J7"
+		(property "Reference" "J8"
 			(at 55.626 96.012 90)
 			(effects
 				(font
@@ -4705,7 +4705,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/d00f736a-765f-4a24-9c13-c76d4dd8f90d"
-					(reference "J7")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -4786,7 +4786,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d0401e19-742e-4802-91f0-9cb20c6975f5")
-		(property "Reference" "C17"
+		(property "Reference" "C16"
 			(at 103.124 39.37 0)
 			(effects
 				(font
@@ -4858,7 +4858,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/d00f736a-765f-4a24-9c13-c76d4dd8f90d"
-					(reference "C17")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -5005,7 +5005,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ea6fc158-3c88-43fd-b750-772e3a9b74dc")
-		(property "Reference" "C19"
+		(property "Reference" "C18"
 			(at 147.574 41.91 0)
 			(effects
 				(font
@@ -5077,7 +5077,7 @@
 		(instances
 			(project "mini_power_logger"
 				(path "/d0f26e02-819b-4fb4-bb3f-57422d098177/d00f736a-765f-4a24-9c13-c76d4dd8f90d"
-					(reference "C19")
+					(reference "C18")
 					(unit 1)
 				)
 			)
